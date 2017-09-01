@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treehouse.FitnessFrog.Shared", "Treehouse.FitnessFrog.Shared\Treehouse.FitnessFrog.Shared.csproj", "{8B4A3F0D-CC9C-46E4-A05C-D52AA344950C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treehouse.FitnessFrog.Spa", "Treehouse.FitnessFrog.Spa\Treehouse.FitnessFrog.Spa.csproj", "{AEE475DD-21E5-4D28-A352-E5C6CD7024CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4A3F0D-CC9C-46E4-A05C-D52AA344950C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4A3F0D-CC9C-46E4-A05C-D52AA344950C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4A3F0D-CC9C-46E4-A05C-D52AA344950C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4A3F0D-CC9C-46E4-A05C-D52AA344950C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE475DD-21E5-4D28-A352-E5C6CD7024CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE475DD-21E5-4D28-A352-E5C6CD7024CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE475DD-21E5-4D28-A352-E5C6CD7024CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE475DD-21E5-4D28-A352-E5C6CD7024CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
