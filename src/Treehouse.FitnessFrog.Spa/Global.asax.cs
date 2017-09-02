@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Web;
+using System.Web.Http;
 
 namespace Treehouse.FitnessFrog.Spa
 {
@@ -7,6 +8,7 @@ namespace Treehouse.FitnessFrog.Spa
     {
         protected void Application_Start()
         {
+            GlobalConfiguration.Configure(WebApiConfig.Register);
         }
     }
 }
