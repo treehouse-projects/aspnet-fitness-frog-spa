@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace Treehouse.FitnessFrog.Shared.Models
 {
@@ -28,6 +29,7 @@ namespace Treehouse.FitnessFrog.Shared.Models
         /// <summary>
         /// The entries associated with this activity.
         /// </summary>
+        [JsonIgnore]
         public IList<Entry> Entries { get; set; }
     }
 }
