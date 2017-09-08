@@ -125,6 +125,7 @@
     <Content Include="glyphicons-halflings-regular.7c4cbe928205c888831b.woff" />
     <Content Include="glyphicons-halflings-regular.aa9c7490c2fd52cb96c7.ttf" />
     <Content Include="README.md" />
+    <Content Include="s3v5-exercise.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
