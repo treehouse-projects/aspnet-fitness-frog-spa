@@ -1,9 +1,9 @@
 ﻿
 # Exercise: Adding the Activities and Intensities API Endpoints
 
-## Activites API Endpoint
+## Activities API Endpoint
 
-* Add an API controller named `ActivitesController`
+* Add an API controller named `ActivitiesController`
 * Add a controller action method to handle GET requests
   * The method should return a collection of resources representing the available activities
 * Each returned activity resource should have an `id` and `name` property
