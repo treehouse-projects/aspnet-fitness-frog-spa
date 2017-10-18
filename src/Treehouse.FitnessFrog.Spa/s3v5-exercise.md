@@ -1,5 +1,5 @@
 ﻿
-# Excercise: Adding the Activites and Intensities API Endpoints
+# Exercise: Adding the Activities and Intensities API Endpoints
 
 ## Activites API Endpoint
 
